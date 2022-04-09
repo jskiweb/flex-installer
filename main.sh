@@ -68,7 +68,7 @@ APACHE2="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/apache2.sh"
 
 NJSNPM="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/njsnpm.sh"
 
-WIREGUARD="$GITHUB_BASE_URL/source/wireguard.sh"
+WIREGUARD="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/wireguard.sh"
 
 while [ "$done" == false ]; do
   options=(
