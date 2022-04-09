@@ -12,7 +12,7 @@ set -e
 #                                                                           #
 #############################################################################
 
-SCRIPT_VERSION="v0.1"
+SCRIPT_VERSION="v0.2"
 GITHUB_BASE_URL="https://raw.githubusercontent.com/jskiweb/flex-installer"
 
 LOG_PATH="/var/log/flex-installer.log"
