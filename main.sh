@@ -12,7 +12,7 @@ set -e
 #                                                                           #
 #############################################################################
 
-SCRIPT_VERSION="v.0.2"
+SCRIPT_VERSION="v.0.3"
 GITHUB_BASE_URL="https://raw.githubusercontent.com/jskiweb/flex-installer"
 
 LOG_PATH="/var/log/flex-installer.log"
@@ -55,7 +55,7 @@ done=false
 output "
 JSKI FLEX-INSTALLER"
 output
-output "Copyright (C) 22, JSKI,"
+output "Copyright (C) 2022, JSKI,"
 output 'ONLY DEBIAN AND UBUNTU ARE SUPPORTED!'
 output "No Support"
 output "This script is not associated with any of the listed Projects"
