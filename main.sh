@@ -66,7 +66,7 @@ NGINX="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/nginx.sh"
 
 APACHE2="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/apache2.sh"
 
-NJSNPM="$GITHUB_BASE_URL/source/njsnpm.sh"
+NJSNPM="$GITHUB_BASE_URL/$SCRIPT_VERSION/source/njsnpm.sh"
 
 WIREGUARD="$GITHUB_BASE_URL/source/wireguard.sh"
 
